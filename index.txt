@@ -4,5 +4,6 @@
 	<title>Test</title>
 <body>
 	Hello, World!
+	This is a new branch feature!
 </body>
 </html>
